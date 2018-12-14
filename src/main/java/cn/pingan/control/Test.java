@@ -14,4 +14,8 @@ public class Test {
 	public void add() {
 		System.out.println("进行了求和操作。。。");
 	}
+	
+	public String islogin(String loginname,String loginpwd) {
+		return "登录。。。";
+	}
 }
