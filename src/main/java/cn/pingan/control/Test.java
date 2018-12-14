@@ -11,4 +11,7 @@ public class Test {
 		int c= a+b;
 		System.out.println(c);
 	}
+	public void add() {
+		System.out.println("进行了求和操作。。。");
+	}
 }
