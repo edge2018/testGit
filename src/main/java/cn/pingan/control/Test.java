@@ -6,6 +6,8 @@ public class Test {
 		
 		System.out.println("==================");
 		记得看风景附加费
+                ============、
+        这不是一个Java项目
 		System.out.println("-----����git");
 		
 		System.out.println("----");
