@@ -5,8 +5,8 @@ public class Test {
 	public static void main(String[] args) {
 		
 		System.out.println("==================");
-		
-		System.out.println("-----²âÊÔgit");
+		è®°å¾—çœ‹é£Žæ™¯é™„åŠ è´¹
+		System.out.println("-----ï¿½ï¿½ï¿½ï¿½git");
 		
 		System.out.println("----");
 		int a = 10;
@@ -15,10 +15,10 @@ public class Test {
 		System.out.println(c);
 	}
 	public void add() {
-		System.out.println("½øÐÐÁËÇóºÍ²Ù×÷¡£¡£¡£");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í²ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 	}
 	
 	public String islogin(String loginname,String loginpwd) {
-		return "µÇÂ¼¡£¡£¡£";
+		return "ï¿½ï¿½Â¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½";
 	}
 }
