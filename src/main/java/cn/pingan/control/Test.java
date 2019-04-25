@@ -8,6 +8,8 @@ public class Test {
 		
 		ArrayList<Object> arr = new ArrayList<Object>();
 		arr.add(1);
+		
+		
 		arr.add(1);
 		arr.add(1);
 		arr.add(1);
